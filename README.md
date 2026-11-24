@@ -27,6 +27,10 @@ React Native, Expo ve Expo Router kullanılarak geliştirilen üç sayfalı API 
 |:---:|:---:|:---:|
 | Urunleri listeler ve arama yapar | API'den gelen urun bilgilerini gosterir | Miktar ve toplam tutari yonetir |
 
+### Uygulama Goruntusu
+
+![Hafta 10 E-Ticaret Uygulaması](screenshots/odev.png)
+
 ## Kullanilan Teknolojiler
 
 - React Native

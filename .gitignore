@@ -10,6 +10,9 @@ web-build/
 .DS_Store
 *.swp
 
+# Laboratuvar notu/PDF dosyaları
+*.pdf
+
 # Ortam dosyaları
 .env
 .env.*

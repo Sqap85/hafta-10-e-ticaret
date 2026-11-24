@@ -1,0 +1,16 @@
+# Bağımlılıklar
+node_modules/
+
+# Expo derleme çıktıları
+.expo/
+dist/
+web-build/
+
+# Sistem ve editör dosyaları
+.DS_Store
+*.swp
+
+# Ortam dosyaları
+.env
+.env.*
+!.env.example

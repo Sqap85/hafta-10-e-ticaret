@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "API E-Ticaret",
+    "slug": "hafta-10-api-e-ticaret",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
